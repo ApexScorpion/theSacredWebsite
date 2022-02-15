@@ -1,0 +1,25 @@
+html {
+    max-width: 100%;
+    background-image: url(./images/ab94i3q4agk21.jpg)
+}
+
+body {
+ text-align: center;
+ 
+}
+ul{
+    width:200px;
+    margin:0 auto;
+    text-align:left; 
+    color: rgb(226, 9, 197);
+    
+}
+p{
+color:rgb(226, 9, 197);
+font-size:  24px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 56px;
+    color: greenyellow;
+}
